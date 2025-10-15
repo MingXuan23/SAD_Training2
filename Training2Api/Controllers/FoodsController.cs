@@ -132,6 +132,18 @@ namespace Training2Api.Controllers
             public string password { get; set; }
         }
 
+        [HttpPost("/api/login2")]
+        public object login2(Dictionary<string, string> req)
+        {
+            return new
+            {
+
+                email = req["email"],
+                password = req["password"]
+            };
+
+        }
+
         [HttpPost("/api/login")]
         public IActionResult login(loginDto req)
         {

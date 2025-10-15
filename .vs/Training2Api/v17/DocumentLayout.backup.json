@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "Training2Api\\Controllers\\FoodsController.cs",
               "ToolTip": "D:\\Desktop\\FoodFestival\\final\\Training2Api\\Training2Api\\Controllers\\FoodsController.cs",
               "RelativeToolTip": "Training2Api\\Controllers\\FoodsController.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAmwGEAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAIIAAAAAAAAAAADwv5AAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T07:21:32.816Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "Training2Api\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T06:48:28.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T06:48:28.621Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "Training2Api\\models\\FoodFestDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T06:42:31.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T06:42:31.941Z"
             }
           ]
         },

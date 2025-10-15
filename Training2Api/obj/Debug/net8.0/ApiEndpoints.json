@@ -131,6 +131,22 @@
   },
   {
     "ContainingType": "Training2Api.Controllers.FoodsController",
+    "Method": "login2",
+    "RelativePath": "api/login2",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "System.Collections.Generic.Dictionary\u00602[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Training2Api.Controllers.FoodsController",
     "Method": "setActive",
     "RelativePath": "api/setActive/{id}",
     "HttpMethod": "GET",

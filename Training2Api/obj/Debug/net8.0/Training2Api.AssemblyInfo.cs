@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Training2Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+919f2b38c47b0c8e7816d31a19b0e81fb3dc617c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Training2Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Training2Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
